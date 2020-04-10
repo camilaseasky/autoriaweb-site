@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="pt-BR" itemscope itemtype="https://schema.org/WebSite">
+    <head>
+
+        <title>Autoriaweb - Desenvolvimento Web</title>
+        <link rel="shortcut icon"  href="_img/logo_min.png" type="imagem/x-png"/>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta name="description" content="Desenvolvimento de sites, aplicações web e marketing digital.">
+        <meta name="robots" content="index, follow">
+
+
+        <link rel="canonical" href="https://www.autoriaweb.com.br"/>
+        <meta itemprop="name" content="Desenvolvimento Web">
+        <meta itemprop="description" content="Desenvolvimento de sites, aplicações web e marketing digital.">
+        <meta itemprop="image" content="https://www.autoriaweb.com.br/_img/autoriaweb_seo.png ">
+        <meta itemprop="url" content="https://www.autoriaweb.com.br">
+
+        <meta property="og:url"  content="https://www.autoriaweb.com.br" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="Autoriaweb - Desenvolvimento Web" />
+        <meta property="og:description" content="Desenvolvimento de sites, aplicações web e marketing digital." />
+        <meta property="og:image"  content="https://www.autoriaweb.com.br/_img/autoriaweb_seo.png " />
+        <meta property="og:video:width"  content="1200" />
+        <meta property="og:video:height"  content="630" />
+        <meta property="og:locale"  content="pt-BR" />
+        <meta property="fb:app_id"  content="545214512735866" />
+        <meta property="article:author"  content="https://www.facebook.com/Autoriaweb-106708897627828" />
+        <meta property="article:publisher"  content="https://www.facebook.com/Autoriaweb-106708897627828" />
+        
+        <link href="https://fonts.googleapis.com/css?family=Quattrocento+Sans:400,700&display=swap" rel="stylesheet">
+        <link href="_cdn/fonticon.css" rel="stylesheet" type="text/css"/>
+        <link href="_cdn/boot.css" rel="stylesheet" type="text/css"/>
+        <link href="_cdn/style.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+
+        <header class='main_header' id="main_header">
+            <div class='main_header_content'>
+
+                <img class='header_logo' src="_img/logo_transp.png" alt="AutoriaWeb" title="AutoriaWeb">
+
+                <nav class='main_header_content_menu'>
+                    <ul>
+                        <li><a href="#main_header">Home</a></li>
+                        <li><a href="#main_empresa">Quem somos</a></li>
+                        <li><a href="#main_servicos">Serviços</a></li>
+                        <li><a href="#main_contato">Contato</a></li>
+                    </ul>
+                </nav>
+
+                <nav class="main_header_menu_mobile">
+                    <ul>
+                        <li><span class="main_header_menu_mobile_obj icon-menu icon-notext"></span>
+                            <ul class="main_header_menu_mobile_sub ds_none">
+                                <li><a href="#main_header">Home</a></li>
+                                <li><a href="#main_empresa">Quem somos</a></li>
+                                <li><a href="#main_servicos">Serviços</a></li>
+                                <li><a href="#main_contato">Contato</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <div class='main_cta' id="main_cta">
+                <!--dobra principal   -->
+                <article class='main_cta_content'>
+                    <div class='main_cta_content_spacer'>
+                        <header>
+                            <h1>Nós entregamos VALOR usando TECNOLOGIA!</h1>
+                        </header>
+                        <p>Descubra o que podemos fazer pelo seu negócio!</p>
+                        <p><a href='#main_empresa' class='btn'>Clique aqui</a></p>
+                    </div>
+                </article>
+            </div>
+
+            <!--dobra  Quem Somos   -->
+            <section id="main_empresa"  class='main_empresa'>
+                <header class='main_empresa_header'>
+                    <img src="_img/logo_transp.png" alt="AutoriaWeb" title="AutoriaWeb">
+                    <h1>Acreditamos que é possível fazer mais com menos, sem perder a excelência!</h1>
+                </header>
+
+                <div class="main_empresa_content">
+                    <article>
+                        <header>
+                            <h2 class="icon-compass">Nossas ferramentas</h2>
+                            <p>Utilizamos ferramentas consolidadas no mercado e que
+                                nos permitam produzir os resultados que desejamos.</p>
+                        </header>
+                    </article>
+
+                    <article>
+                        <header>
+                            <h2 class="icon-binoculars">Foco em solução</h2>
+                            <p>Nosso foco é atender a sua necessidades através
+                                de soluções tecnológicas. Faremos parte do seu ativo.</p>
+                        </header>
+                    </article>
+
+                    <article>
+                        <header>
+                            <h2 class="icon-checkbox-checked">Simplicidade e objetividade</h2>
+                            <p>Trabalhamos de forma simples e objetiva para
+                                sermos eficientes e produtivos.</p>
+                        </header>
+                    </article>
+
+                    <article>
+                        <header>
+                            <h2 class="icon-alarm">Sempre online</h2>
+                            <p>Estamos sempre prontos para atendê-los e ajudá-los no 
+                                que for preciso para minimizar impactos e promover melhores 
+                                resultados.</p>
+                        </header>
+                    </article>
+                </div>
+
+            </section>
+
+            <!--dobra  O que fazemos   -->
+            <section class="main_servicos" id="main_servicos">
+                <header class="main_servicos_header">
+                    <h1 class="icon-stack">Nossos serviços</h1>
+                    <p>Descubra oque podemos fazer pelo seu negócio!</p>
+                </header>
+                <div class="main_servicos_content">
+                    <article>
+                        <header>
+                            <img src="_img/desenvolvimento_web.jpg" alt="Desenvolvimento Web" title="Desenvolvimento Web">
+                            <h2>Desenvolvimento WEB</h2>
+                            <p>Colocamos o seu negócio na internet, desenvolvendo sites modernos e práticos.</p>
+                        </header>
+                    </article>
+
+                    <article>
+                        <header>
+                            <img src="_img/marketing_digital.jpg" alt="Marketing Digital" title="Marketing Digital">
+                            <h2>Marketing Digital</h2>
+                            <p>Sabemos como aumentar o alcance de suas campanhas e promoções, bem como de sua carteira de clientes.</p>
+                        </header>
+                    </article>
+
+                    <article>
+                        <header>
+                            <img src="_img/saas.jpg" alt="Software como serviço." title="saas">
+                            <h2>Aplicações como serviços</h2>
+                            <p>Desenvolvemos e disponibilizamos aplicações com serviços na web para facilitar o gerenciamento dos seus processos operacionais. 
+                            </p>
+                        </header>
+                    </article>
+
+                </div>
+            </section>
+
+            <!--dobra   contato   -->
+            <section class="main_contato" id="main_contato">
+                <div  class="main_contato_content">
+                    <header>
+                        <h1 class="icon-mail2">Fale conosco</h1>
+                        <p>Queremos saber a sua necessidade!</p>
+                    </header>
+
+                    <div class="main_contato_content_form">
+                        <form action="enviarEmail.php" name="form_contato" method="post" >
+                            <input type='text' placeholder="Nome completo:" name="nome">
+                            <input type='email' placeholder="Email:" name="email">
+                            <textarea  placeholder="Escreva sua mensagem:" rows="6" name="mensagem"></textarea>
+                            <button type='submit'>Enviar Mensagem</button>
+                        </form>
+                    </div>
+
+                </div>
+            </section>
+
+
+        </main>
+
+        <div class="main_footer_spacer"></div>
+
+        <section class="main_footer">
+
+            <article class="main_footer_links">
+                <header>
+                    <h2>Menu</h2>
+                </header>
+                <ul>
+                    <li><a href="#main_header">Home</a></li>
+                    <li><a href="#main_empresa">Quem somos</a></li>
+                    <li><a href="#main_servicos">Serviços</a></li>
+                    <li><a href="#main_contato">Contato</a></li>
+                </ul>
+            </article>
+
+            <article class="main_footer_social">
+                <header>
+                    <h2>Redes Sociais</h2>
+                </header>
+                <ul>
+                    <li><a href='#' class="icon-facebook">Facebook</a></li>
+                    <li><a href='#' class="icon-instagram">Instagran</a></li>
+                </ul>
+            </article>
+
+            <article class="main_footer_visao">
+                <h2>
+                    <img src="_img/logo_transp.png" alt="Logo Autoriaweb" title="Logo AutoriaWeb">
+                </h2>
+                <p>"Acreditamos que é possível fazer mais com menos! Você só precisa descubrir o que é essencial."</p>
+            </article>
+        </section>
+
+        <footer class="main_footer_rights">
+            &#169 Todos os direitos reservados a &#60autoriaweb/&#62
+        </footer>
+
+        <script src="js/jquery.js" ></script>
+        <script src="script.js" ></script>
+    </body>
+</html>
